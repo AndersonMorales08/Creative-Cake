@@ -17,6 +17,8 @@ public class Creative_cake {
     public static void main(String[] args) {
         System.out.println("Hola mundo");
         System.out.println("Hola");
+         System.out.println("Hola mundo");
+        System.out.println("Hola");
     }
     
 }
